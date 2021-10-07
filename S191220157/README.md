@@ -28,9 +28,9 @@
 
 ![image](https://github.com/jwork-2021/jw03-CDDNB/blob/main/example.QuickSorter.png)
 
-快速排序动画：![asciicast](https://asciinema.org/a/qRBXyyysWVr95pP6yKvtSekaQ.svg)
+快速排序动画：[![asciicast](https://asciinema.org/a/qRBXyyysWVr95pP6yKvtSekaQ.svg)](https://asciinema.org/a/qRBXyyysWVr95pP6yKvtSekaQ)
 
-选择排序动画：![asciicast](https://asciinema.org/a/VyLbOvvrYejgcAKk9t5eiPMy2.svg)
+选择排序动画：[![asciicast](https://asciinema.org/a/VyLbOvvrYejgcAKk9t5eiPMy2.svg)](https://asciinema.org/a/VyLbOvvrYejgcAKk9t5eiPMy2)
 
 选用时欣191220097的图片（直接发图给我了，于是把她的图保存在自己的工作区下）![image](https://github.com/jwork-2021/jw03-CDDNB/blob/main/S191220157/example.SelectSorter.png)
 
